@@ -1,6 +1,8 @@
 # workProject_cnap
-the website for the center of administrative services
-page templates for administrative services have been created.
+the website developed for the Center of administrative services,
+(created templates for page services - exm: http://akimcnap.com.ua/poslugy-tsnap/
+service - exm: http://akimcnap.com.ua/service/derzhavna-reyestratsiya-yurydychnoyi-osoby/
+contacts, home and others) 
  
 For the convenience of the client used the plugin ACF
 
